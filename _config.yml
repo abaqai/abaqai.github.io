@@ -5,12 +5,12 @@ description: >- # site description
 lang: en-US # default lang
 timezone: Pacific Standard Time # set your timezone
 image: assets/img/avatar.jpg # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/abaqai/myBlog.git # site repo [optional]
+repo: https://github.com/abaqai/abaqai.github.io.git # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Ahmed's Portfolio | Blog # author name
+  name: Ahmed Baqai # author name
   bio: >- # tell to the world
     Hey, thank you for checking out my potfolio. You can find my professional experiences on my LinkedIn (Click Icon Below) or 
     on my <a target='_blank' href="https://drive.google.com/file/d/1CzQvyNSRK7GIe_ljiGpG3TrwEMu-f_La/view?usp=sharing" target="_blank" rel="noopener">@resume</a>. If you just want to vibe with me, 
