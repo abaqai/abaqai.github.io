@@ -8,6 +8,13 @@
     } ,
   
     {
+      "title"    : "Welcome to Jekyll!",
+      "tags"     : "",
+      "url"      : "/indigo/",
+      "date"     : "2020-08-29 02:29:20 +0000"
+    } ,
+  
+    {
       "title"    : "Cara ribet memperbarui forked repo",
       "tags"     : "tips, git, software",
       "url"      : "/cara-memperbarui-fork-repository/",
