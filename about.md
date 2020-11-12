@@ -10,6 +10,15 @@ Welcome to the my favorite page, my Music! Below, I've compiled a list of a few 
 
 If you like what you hear, feel free to check out my <a target='_blank' href="https://open.spotify.com/user/21inj4qwsuu2d5u726pntodua" target="_blank" rel="noopener">@spotify</a>
 
+
+### Songs I'm Listening to Right Now
+
+* **Double Negative (Skeleton Milkshake)** *Dominic Fike*
+* **Why** *Dominic Fike*
+* **Time Online** *Nightly*
+* **It Might Take a Woman** *Girlhood*
+* **Tu Jaane Na** *Atif Aslam*
+
 ### My Goto Songs
 
 * **Yellow** *Coldplay*
@@ -23,13 +32,29 @@ If you like what you hear, feel free to check out my <a target='_blank' href="ht
 * **Coldplay**
 * **Ed Sheeran**
 * **Atif Aslam**
-* **One Republic**
+* **The Script**
 * **Lauv**
 
-*This text is in italics.* _This text is also in italics._
+### Favorite Bollywood Songs
 
-~~This text has a strike-through applied.~~
+* **Tu Jaane Na** *Atif Aslam*
+* **Pehli Nazar Mein** *Atif Aslam*
+* **Pee Loon** *Mohit Chauhan*
+* **Kabira (Encore)** *HarshDeep Kaur, Arjit Singh*
+* **Mera Bichraa Yaar** *Strings*
 
-~~**What if something is really important gets crossed out?**~~
+### My Late Night Softies
 
-_**It's pretty easy to ~~apply~~ multiple styles.**_
+* **All of the Stars** *Ed Sheeran*
+* **To Build A Home** *The Cinematic Orchestra*
+* **Fix You** *Coldplay*
+* **The Scientist** *Coldplay*
+* **A Thousand years** *Christina Perri*
+
+### 😏
+
+* **Bolder Feelings** *The Ivy*
+* **Dancing On My Own** *Robyn*
+* **Pink Skies** *LANY*
+* **I Like Me Better** *Lauv*
+* **International Love** *Chris Brown, Pitbull*
