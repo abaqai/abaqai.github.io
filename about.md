@@ -13,11 +13,11 @@ If you like what you see, feel free to check out my <a target='_blank' href="htt
 
 ### Songs I'm Listening to Right Now
 
-* **Double Negative (Skeleton Milkshake)** *Dominic Fike*
+* **It Was Always You** *The Ivy*
 * **Why** *Dominic Fike*
-* **Time Online** *Nightly*
-* **It Might Take a Woman** *Girlhood*
-* **Tu Jaane Na** *Atif Aslam*
+* **Older** *Nightly*
+* **Champagne Problems** *Taylor Swift*
+* **Dil Jogia** *Kavita Seth*
 
 ### My Goto Songs
 
