@@ -13,11 +13,11 @@ If you like what you see, feel free to check out my <a target='_blank' href="htt
 
 ### Songs I'm Listening to Right Now
 
-* **It Was Always You** *The Ivy*
-* **Why** *Dominic Fike*
-* **Older** *Nightly*
-* **Champagne Problems** *Taylor Swift*
-* **Dil Jogia** *Kavita Seth*
+* **When We Feel Young** *When Chai Met Toast*
+* **A LOT TO LOSE** *24kGoldn*
+* **Always** *blink-182*
+* **Monica Lewinsky** *SAINt JHN*
+* **Heat Waves** *Glass Animals*
 
 ### My Goto Songs
 
@@ -30,10 +30,10 @@ If you like what you see, feel free to check out my <a target='_blank' href="htt
 ### Favorite Bands | Artists
 
 * **Coldplay**
-* **Ed Sheeran**
+* **SAINt JHN**
 * **Atif Aslam**
 * **The Script**
-* **Lauv**
+* **Glass Animals**
 
 ### Favorite Bollywood Songs
 
