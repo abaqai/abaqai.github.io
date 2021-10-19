@@ -1,60 +1,63 @@
 ---
-title: My Music 🎸
-permalink: /sarboo/
+title: My Baby Sarika ❤️
+permalink: /babysar-mommy-of-booboo/
 layout: page
-excerpt: This is my Music!
+excerpt: This is our little diary
 comments: false
 ---
 
-Welcome to the my favorite page, my Music! Below, I've compiled a list of a few songs/artists in distinct categories. Not only do I love listening to these songs, but I really feel that some of them showcase my personality in a very exquisite way. I highly recommend give them a listen.
+Welcome to our journey. I made this little diary for us so that we can record the important things cutoo pie. We'll keep this with us till the end of time :)
 
-If you like what you see, feel free to check out my <a target='_blank' href="https://open.spotify.com/user/21inj4qwsuu2d5u726pntodua" target="_blank" rel="noopener">@spotify</a>
+Here's our playlist <a target='_blank' href="https://open.spotify.com/playlist/1x41oMgKyvMkb11AGUJgwX" target="_blank" rel="noopener">@spotify</a>
 
+### Songs that remind me of you
 
-### Songs I'm Listening to Right Now
+* **Cowboy in LA** *LANY*
+* **It was always you** *The Ivy*
+* **Champagne Problems** *Taylor Swift*
+* **Pee Loon - Ishq Sufiyana** *Neha Kakkar*
+* **Fasle Gul** *Nusrat Fateh Ali Khan*
 
-* **When We Feel Young** *When Chai Met Toast*
-* **A LOT TO LOSE** *24kGoldn*
-* **Always** *blink-182*
-* **Monica Lewinsky** *SAINt JHN*
-* **Heat Waves** *Glass Animals*
+### Your top five nicknames
 
-### My Goto Songs
+* **Bubba** *The classic one*
+* **Mushie** *When I like cuddling with you*
+* **Baby Sar** *Cause you're so smol*
+* **Bhaloo Bear** *Cause you're my bhalooooo*
+* **Cutie Bootie** *Naughty Naughty*
 
-* **Yellow** *Coldplay*
-* **You** *The Native Architects*
-* **Pehli Nazar Mein** *Atif Aslam*
-* **Spirits** *The Strumbellas*
-* **Night Changes** *One Direction*
+### Favorite dishes we've eaten together
 
-### Favorite Bands | Artists
+* **Tiger Prawn Ravioli**
+* **Fettuccine Alfredo**
+* **Mushroom Truffle Risotto**
+* **Gnocchi Primavera**
+* **The Taco Stand Tacos**
 
-* **Coldplay**
-* **SAINt JHN**
-* **Atif Aslam**
-* **The Script**
-* **Glass Animals**
+### Cool Cities we've been to
 
-### Favorite Bollywood Songs
+* **Berkeley** *Ofcourse*
+* **San Francisco** *Again Ofcourse*
+* **Palo Altoa** *Your Home*
+* **Cupertino** *My Home*
+* **LA** *Roadtrip vibes*
+* **San Diego** *Scooter time*
+* **La Puente** *You know why*
+* **New York City** *Coming soon*
 
-* **Tu Jaane Na** *Atif Aslam*
-* **Pehli Nazar Mein** *Atif Aslam*
-* **Pee Loon** *Mohit Chauhan*
-* **Kabira (Encore)** *HarshDeep Kaur, Arjit Singh*
-* **Mera Bichraa Yaar** *Strings*
+### Our favorite snacks
 
-### My Late Night Softies
+* **Sour Skittle**
+* **Sour Patch**
+* **Hot Cheetos**
+* **Grapes**
+* **Ben and Jerry's Chocolate brownier**
+* **Jalepeno Chips**
+* **Coke**
+* **Gum**
 
-* **All of the Stars** *Ed Sheeran*
-* **To Build A Home** *The Cinematic Orchestra*
-* **Fix You** *Coldplay*
-* **The Scientist** *Coldplay*
-* **A Thousand years** *Christina Perri*
+### Favorite pos 😉
 
-### 😏
-
-* **Bolder Feelings** *The Ivy*
-* **Dancing On My Own** *Robyn*
-* **Pink Skies** *LANY*
-* **I Like Me Better** *Lauv*
-* **International Love** *Chris Brown, Pitbull*
+* 🐄 + 👧
+* ✝️
+* 🐕
