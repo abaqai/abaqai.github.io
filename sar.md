@@ -18,13 +18,15 @@ Here's our playlist <a target='_blank' href="https://open.spotify.com/playlist/1
 * **Pee Loon - Ishq Sufiyana** *Neha Kakkar*
 * **Fasle Gul** *Nusrat Fateh Ali Khan*
 
-### Your top five nicknames
+### Your top nicknames
 
 * **Bubba** *The classic one*
 * **Mushie** *When I like cuddling with you*
 * **Baby Sar** *Cause you're so smol*
 * **Bhaloo Bear** *Cause you're my bhalooooo*
 * **Cutie Bootie** *Naughty Naughty*
+* **Bloo Bloo** *Bloos Clues*
+* **Anything with Butt at the end** *Bhaloo Butt, Bushra Butt ...*
 
 ### Favorite dishes we've eaten together
 
@@ -33,6 +35,7 @@ Here's our playlist <a target='_blank' href="https://open.spotify.com/playlist/1
 * **Mushroom Truffle Risotto**
 * **Gnocchi Primavera**
 * **The Taco Stand Tacos**
+* **Hot Boys Chicken Sandwitch**
 
 ### Cool Cities we've been to
 
@@ -51,9 +54,9 @@ Here's our playlist <a target='_blank' href="https://open.spotify.com/playlist/1
 * **Sour Patch**
 * **Hot Cheetos**
 * **Grapes**
-* **Ben and Jerry's Chocolate brownier**
+* **Ben and Jerry's Chocolate brownie**
 * **Jalepeno Chips**
-* **Coke**
+* **Coke (not vintage please)**
 * **Gum**
 
 ### Favorite pos 😉
@@ -61,3 +64,30 @@ Here's our playlist <a target='_blank' href="https://open.spotify.com/playlist/1
 * 🐄 + 👧
 * ✝️
 * 🐕
+
+### My favorite qualities of you
+* **Your drive to always try new things**
+* **Your family morals, just the way you were raised**
+* **How you never want to hurt anyone**
+* **Your love for babies and cute animals**
+* **The random noises and phrases you say in the most random voices**
+  
+### Cute baby girl names
+* **Zoya**
+* **Jannat**
+* **Laila**
+* **Seher**
+
+### Names that we should actually use
+* **Qulsoom**
+* **Nilofatr**
+* **Bushra**
+* **Nusrat**
+* **Zehreen**
+
+### Exotic Drinks we've tried together
+* **Vintage Coke**
+* **Jamaica**
+* **Bundaberg** *For me hehehe*
+* **Strawberry Italian something**
+* **MORE TO COME**
