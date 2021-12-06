@@ -1,7 +1,8 @@
 ---
 title: My Baby Sarika ❤️
+image: "../assets/img/sar-med.jpg"
 permalink: /babysar-mommy-of-booboo/
-layout: page
+layout: img-page
 excerpt: This is our little diary
 comments: false
 ---
