@@ -1,1 +1,1 @@
-Sitemap: https://ahmedbaqai.com/sitemap.xml
+Sitemap: http://localhost:4000/sitemap.xml
